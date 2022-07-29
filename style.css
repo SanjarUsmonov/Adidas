@@ -24,8 +24,8 @@
 }
 
 .logo img{
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     margin-left: 50px;
 }
 
@@ -56,7 +56,7 @@
     font-size: 20px;
     font-weight: 600;
     margin-right: 50px;
-    box-shadow: 1px 1px 3px 1px #5B5B5B;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
 .btn1 button:hover{
@@ -126,7 +126,7 @@
     height: 580px;
     background-color: #EBEEEF;
     border: #333;
-    box-shadow: 1px 1px 15px 1px #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
     border-radius: 15px;
 }
 
@@ -156,14 +156,14 @@
     border-radius: 5px;
     background-color: #333;
     padding: 10px 40px;
-    box-shadow: 1px 1px 5px 1px #999;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
 .box a:hover{
     font-size: 20px;
     color: #333;
     background-color: #fff;
-    box-shadow: 1px 1px 5px 1px #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
     transition: 0.5s;
     padding: 10px 75px;
     margin-left: 35px;
@@ -182,7 +182,7 @@
     height: 630px;
     background-color: #fff;
     border: #333;
-    box-shadow: 1px 1px 15px 1px #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;;
     border-radius: 15px;
 }
 
@@ -206,14 +206,14 @@
     border-radius: 5px;
     background-color: #333;
     padding: 10px 40px;
-    box-shadow: 1px 1px 5px 1px #999;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
 .box1 a:hover{
     font-size: 20px;
     color: #333;
     background-color: #fff;
-    box-shadow: 1px 1px 5px 1px #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
     transition: 0.5s;
     padding: 10px 75px;
     margin-left: 35px;
@@ -225,7 +225,7 @@
     margin-top: 120px;
     background-color: #fff;
     border: #333;
-    box-shadow: 1px 1px 15px 1px #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
     border-radius: 15px;
 }
 
@@ -253,14 +253,14 @@
     border-radius: 5px;
     background-color: #333;
     padding: 10px 60px;
-    box-shadow: 1px 1px 5px 1px #999;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
 .box2 a:hover{
     font-size: 20px;
     color: #333;
     background-color: #fff;
-    box-shadow: 1px 1px 5px 1px #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
     transition: 0.5s;
     padding: 10px 75px;
     margin-left: 50px;
@@ -269,21 +269,171 @@
 .space{
     font-size: 40px;
     color: #fff;
+    text-align: center;
 }
 
 .main5{
     width: 1300px;
-    height: 580px;
+    height: 1600px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .box4{
-
+    width: 350px;
+    height: 600px;
+    margin-top: 120px;
+    background-color: #fff;
+    border: #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    border-radius: 15px;
 }
 
 .box4 img{
     width: 300px;
     height: 300px;
+    margin-left: 25px;
 } 
+
+.box5{
+    width: 350px;
+    height: 600px;
+    margin-top: -700px;
+    background-color: #fff;
+    border: #333;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    border-radius: 15px;
+}
+
+.box5 img{
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+
+.card1{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h3{
+    width: 350px;
+    margin-top: -150px;
+    font-size: 50px;
+    text-align: center;
+    color:#333;
+
+}
+
+.card2{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box4 a{
+    margin-left: 75px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    padding: 10px 60px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.box4 a:hover{
+    font-size: 20px;
+    color: #333;
+    background-color: #fff;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    transition: 0.5s;
+    padding: 10px 75px;
+    margin-left: 60px;
+}
+
+.box5 a{
+    margin-left: 75px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    padding: 10px 60px;
+    box-shadow: 1px 1px 5px 1px #999;
+}
+
+.box5 a:hover{
+    font-size: 20px;
+    color: #333;
+    background-color: #fff;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    transition: 0.5s;
+    padding: 10px 75px;
+    margin-left: 60px;
+}
+
+.main6{
+    position: relative;
+    width: 1300px;
+    height: 400px;
+    background: #363738;
+    border-radius: 0 100px 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+h4{
+    font-size: 25px;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+.logo2{
+    position: relative;
+    margin-top: 18px;
+}
+
+.menu{
+    position: relative;
+    margin-top: 18px;
+}
+
+.site{
+    margin-right: 150px;
+    position: relative;
+    margin-top: 18px;
+}
+
+.logo2 img{
+    width: 250px;
+    height: 100px;
+}
+
+.main6 a{
+    text-decoration: none;
+    display: grid;
+    color: #fff;
+    padding: 2px 0;
+}
+
+.main6 a:hover{
+    text-decoration: underline;
+    color: #999;
+}
+
+.text7{
+    margin-left: -25px;
+}
+
+i{
+    margin-top: -20px;
+    margin-left: -25px;
+}
