@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    font-family: sans-serif;
+}
+
+.main1{
+    background: linear-gradient(to right, rgb(1, 1, 1),rgb(41, 41, 42), rgb(0, 0, 0));
+    padding: 30px;
+}
+
+.main1 ul li{
+    display: inline;
+}
+
+.logo{
+    text-decoration: none;
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+ul li a{
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    padding:10px 50px ;
+}
+
+ul li a:hover{
+    text-decoration: underline;
+    font-size: 20px;
+    color: yellow;
+    font-weight: bold;
+}
+
+.main2{
+    background-image: url(young-muscular-athlete-practicing-gym-with-weights_155003-35492.webp);
+    background-position: center;
+}
+
+.main2{
+    text-align: center;
+    color:rgb(255, 247, 15);
+    padding-top: 50px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+b{
+    color:#fff;
+}
+
+p{
+    margin: 40px 400px;
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 40px;
+}
+
+button{
+    padding: 20px 60px;
+    border-radius: 30px;
+    background-color:#fff;
+    font-size: 30px;
+    margin-bottom: 56px;
+    border: none;
+}
+
+button:hover{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    font-size:30px ;
+    transition: 0.5s;
+    border: none;
+}
+
+label{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.inp{
+    margin-left: 100px;
+}
+
+.inp input{
+    width: 500px;
+    padding: 15px;   
+}
